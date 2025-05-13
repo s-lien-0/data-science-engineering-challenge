@@ -40,5 +40,5 @@
         "event_type": "click",
         "timestamp": "2023-01-02T13:00:00",
         "metadata": {"page": "checkout"}
-    },
+    }
 ]
