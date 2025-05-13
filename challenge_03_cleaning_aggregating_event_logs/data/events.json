@@ -1,4 +1,4 @@
-events = [
+[
     {
         "user_id": "u1",
         "event_type": "view",
