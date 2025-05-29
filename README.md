@@ -42,7 +42,11 @@ The aim is to develop a well-structured, practical archive of real-world data ch
 | Challenge | Focus Area | Type | Status |
 |----------:|------------|------|--------|
 | 01        | Sales analytics with pandas | Task | Complete |
-| 02        | Python Coding Practice | Task | In Progress |
+| 02        | Leetcode practice | Task | Complete |
+| 03        | Cleaning aggregating event logs - Practicing with JSON file | Project | Complete |
+| 04        | Online retail sales - functions practice  | Task | Complete |
+| 05        | Retail revenue insights pipeline - Exploratory data analysis practice | Task | Complete |
+| 06        | Python Coding Practice - time series practice | Project | In Progress |
 ---
 
 ## How to Use
