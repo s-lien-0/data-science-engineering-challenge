@@ -39,14 +39,16 @@ The aim is to develop a well-structured, practical archive of real-world data ch
 
 ## Challenges Completed
 
-| Challenge | Focus Area | Type | Status |
+| Challenge | Focus Area | Skill Focus | Status |
 |----------:|------------|------|--------|
-| 01        | Sales analytics with pandas | Task | Complete |
-| 02        | Leetcode practice | Task | Complete |
-| 03        | Cleaning aggregating event logs - Practicing with JSON file | Project | Complete |
-| 04        | Online retail sales - functions practice  | Task | Complete |
-| 05        | Retail revenue insights pipeline - Exploratory data analysis practice | Task | Complete |
-| 06        | Python Coding Practice - time series practice | Project | In Progress |
+| 01        | Sales analytics with pandas | Pandas | Complete |
+| 02        | Leetcode practice | Data Structure | Complete |
+| 03        | Cleaning aggregating event logs | JSON | Complete |
+| 04        | Online retail sales | Functions | Complete |
+| 05        | Retail revenue insights pipeline | Exploratory Data Analysis | Complete |
+| 06        | Store Sales | Time Series Forecasting | Complete |
+| 07        | Margin Leakage in Clinical Supplies | Merging | In progress |
+
 ---
 
 ## How to Use

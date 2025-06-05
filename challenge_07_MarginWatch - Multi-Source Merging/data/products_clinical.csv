@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,BaseCost
+P001,Surgical Mask,PPE,1.0
+P002,Rapid Test Kit,Diagnostics,8.0
+P003,COVID Vaccine Dose,Vaccination,15.0
+P004,Insulin Pen,Chronic Care,25.0
+P005,Antiviral Medication,Antivirals,50.0
