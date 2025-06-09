@@ -1,0 +1,62 @@
+[
+  {
+    "order_id": "ORD001",
+    "timestamp": "2025-05-01T10:15:00Z",
+    "customer": {
+      "id": "CUST001",
+      "name": "Alice Tan",
+      "email": "alice@example.com"
+    },
+    "product": {
+      "id": "PROD1001",
+      "name": "Surgical Mask",
+      "category": "Health",
+      "unit_price": 2.5
+    },
+    "quantity": 100,
+    "shipping": {
+      "method": "Standard",
+      "cost": 5.0
+    }
+  },
+  {
+    "order_id": "ORD002",
+    "timestamp": "2025-05-03T14:45:00Z",
+    "customer": {
+      "id": "CUST002",
+      "name": "Brian Lee",
+      "email": "brian.lee@example.com"
+    },
+    "product": {
+      "id": "PROD2002",
+      "name": "Hand Sanitizer",
+      "category": "Health",
+      "unit_price": 3.0
+    },
+    "quantity": 50,
+    "shipping": {
+      "method": "Express",
+      "cost": 10.0
+    }
+  },
+  {
+    "order_id": "ORD003",
+    "timestamp": "2025-05-04T09:30:00Z",
+    "customer": {
+      "id": "CUST001",
+      "name": "Alice Tan",
+      "email": "alice@example.com"
+    },
+    "product": {
+      "id": "PROD3003",
+      "name": "Vitamin C Tablets",
+      "category": "Supplements",
+      "unit_price": 12.0
+    },
+    "quantity": 2,
+    "shipping": {
+      "method": "Standard",
+      "cost": 5.0
+    }
+  }
+]
