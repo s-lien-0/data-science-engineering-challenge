@@ -1,0 +1,4 @@
+order_id,timestamp,quantity,customer_id,customer_name,customer_email,product_id,product_name,product_category,product_unit_price,shipping_method,shipping_cost,order_value,is_repeat_customer,base_cost,supplier,margin
+ORD001,2025-05-01 10:15:00+00:00,100,CUST001,Alice Tan,alice@example.com,PROD1001,Surgical Mask,Health,2.5,Standard,5.0,250.0,True,1.5,AlphaMed,100.0
+ORD002,2025-05-03 14:45:00+00:00,50,CUST002,Brian Lee,brian.lee@example.com,PROD2002,Hand Sanitizer,Health,3.0,Express,10.0,150.0,False,2.2,CleanCare,40.0
+ORD003,2025-05-04 09:30:00+00:00,2,CUST001,Alice Tan,alice@example.com,PROD3003,Vitamin C Tablets,Supplements,12.0,Standard,5.0,24.0,True,8.0,NutraWell,8.0
