@@ -49,17 +49,21 @@ The aim is to develop a well-structured, practical archive of real-world data ch
 | 06        | Time Series Sales Trends | Resampling, seasonality, lineplots, moving averages | Complete |
 | 07        | Margin Leakage in Clinical Supplies | Multi-source joins, margin calculations, enrich | Complete |
 | 08        | CRM and Transaction analytics | Nested JSON Flattening, safe logic, derived fields, argparse, modularization, pytest, logging, Makefile automation | Complete |
-| 09        | Data Validation Framework | Input/data schema validation, error handling, modularity, testing | Complete |
+| 09        | Data Validation Framework | Input/data schema validation, error handling, modularity, testing | In Progress |
+
 ---
 
-## How to Use
+## How to Use This Repository
 
-- Browse individual challenges using the folder names (`challenge_01/`, `challenge_02/`, etc.)
-- Each includes:
-  - Notebook or script
-  - Dataset (or download instructions)
-  - Outputs (visualizations or processed files)
-- Designed to be reproducible and self-contained
+### Structure
+
+- **Each challenge** lives in its own folder:  
+  `challenge_01/`, `challenge_02/`, ..., `challenge_09/`, etc.
+- **Inside each folder you’ll find:**
+  - `main.ipynb` or `main.py` – notebook or script for the core solution.
+  - `data/` – sample datasets or download instructions.
+  - `outputs/` – generated visualizations, processed files, or summary reports.
+  - `validator.py` and `test_validator.py` – (from Challenge 9+) input validation and automated tests for data quality.
 
 ---
 
