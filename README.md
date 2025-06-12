@@ -41,15 +41,15 @@ The aim is to develop a well-structured, practical archive of real-world data ch
 
 | Challenge | Focus Area | Skill Focus | Status |
 |----------:|------------|------|--------|
-| 01        | Sales analytics with pandas | Pandas | Complete |
-| 02        | Leetcode practice | Data Structure | Complete |
-| 03        | Cleaning aggregating event logs | JSON | Complete |
-| 04        | Online retail sales | Functions | Complete |
-| 05        | Retail revenue insights pipeline | Exploratory Data Analysis | Complete |
-| 06        | Store Sales | Time Series Forecasting | Complete |
-| 07        | Margin Leakage in Clinical Supplies | Merging | Complete |
-| 08        | Nested JSON Flattening & Transaction Enrichment - Nested JSON Flattening with 1) CLI Pipeline & Tests and 2) Documentation & Packaging | Deep flattening, safe logic, derived fields, argparse, modularization, pytest, logging, Makefile automation | Complete |
-
+| 01        | Supermarket Sales EDA | Pandas - Grouping, charting, visual/textual insight writing | Complete |
+| 02        | Python Function Practice | Leetcode-style logic, pandas, clean syntax, edge cases	 | Complete |
+| 03        | JSON-Like Data Parsing | Parsing semi-structured data, flattening, query building | Complete |
+| 04        | Retail Data Pipeline | Modular loading, cleaning, aggregation, pipeline chaining | Complete |
+| 05        | Advanced Revenue Insights | Grouped analysis, time trends, business storytelling | Complete |
+| 06        | Time Series Sales Trends | Resampling, seasonality, lineplots, moving averages | Complete |
+| 07        | Margin Leakage in Clinical Supplies | Multi-source joins, margin calculations, enrich | Complete |
+| 08        | CRM and Transaction analytics | Nested JSON Flattening, safe logic, derived fields, argparse, modularization, pytest, logging, Makefile automation | Complete |
+| 09        | Data Validation Framework | Input/data schema validation, error handling, modularity, testing | Complete |
 ---
 
 ## How to Use
