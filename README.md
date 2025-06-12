@@ -47,7 +47,8 @@ The aim is to develop a well-structured, practical archive of real-world data ch
 | 04        | Online retail sales | Functions | Complete |
 | 05        | Retail revenue insights pipeline | Exploratory Data Analysis | Complete |
 | 06        | Store Sales | Time Series Forecasting | Complete |
-| 07        | Margin Leakage in Clinical Supplies | Merging | In progress |
+| 07        | Margin Leakage in Clinical Supplies | Merging | Complete |
+| 08        | Nested JSON Flattening & Transaction Enrichment - Nested JSON Flattening with 1) CLI Pipeline & Tests and 2) Documentation & Packaging | Deep flattening, safe logic, derived fields, argparse, modularization, pytest, logging, Makefile automation | Complete |
 
 ---
 
@@ -59,7 +60,7 @@ The aim is to develop a well-structured, practical archive of real-world data ch
   - Dataset (or download instructions)
   - Outputs (visualizations or processed files)
 - Designed to be reproducible and self-contained
-å
+
 ---
 
 ## License
