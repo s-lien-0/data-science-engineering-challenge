@@ -1,0 +1,401 @@
+visit_date,department,diagnosis,patient_id,age_group,gender,cost
+2023-11-24,Cardiology,Hypertension,P5506,18-35,Male,3695.53
+2023-12-13,Pediatrics,Migraine,P2424,36-55,Male,197.5
+2023-04-22,Oncology,Migraine,P1434,36-55,Female,1141.18
+2023-10-29,Neurology,Asthma,P1106,56-75,Male,3505.79
+2023-06-24,Neurology,Diabetes,P4527,75+,Female,555.94
+2023-07-14,Cardiology,Cancer,P6635,36-55,Male,3662.17
+2023-10-02,Cardiology,Fracture,P2291,36-55,Female,2907.89
+2023-12-27,Cardiology,Hypertension,P4733,56-75,Male,4283.82
+2023-02-21,Orthopedics,Cancer,P8428,36-55,Female,855.14
+2023-07-01,Oncology,Fever,P5374,56-75,Male,3065.2
+2023-03-29,General Medicine,Fever,P5010,18-35,Female,1386.24
+2023-11-24,Pediatrics,Migraine,P4598,36-55,Male,1183.79
+2023-01-17,Neurology,Fracture,P5386,0-17,Female,1102.5
+2023-09-13,Orthopedics,Fever,P8517,18-35,Male,1270.81
+2023-10-15,General Medicine,Cancer,P8019,56-75,Female,1841.88
+2023-03-12,General Medicine,Fracture,P2489,56-75,Male,806.56
+2023-03-23,Pediatrics,Fracture,P2040,18-35,Female,2669.12
+2023-10-11,Cardiology,Fever,P2876,36-55,Female,3854.56
+2023-06-24,Cardiology,Cancer,P8123,18-35,Male,4771.39
+2023-05-15,General Medicine,Asthma,P3927,36-55,Male,4359.07
+2023-06-02,Pediatrics,Migraine,P4258,18-35,Male,2719.93
+2023-09-29,Cardiology,Migraine,P6310,36-55,Male,4649.04
+2023-06-07,Oncology,Hypertension,P4946,56-75,Male,473.98
+2023-09-06,Cardiology,Asthma,P9727,56-75,Male,3315.77
+2023-10-09,Oncology,Cancer,P9645,56-75,Female,4823.6
+2023-10-04,Pediatrics,Fever,P4295,56-75,Female,4975.99
+2023-11-29,Neurology,Fracture,P9479,36-55,Male,1162.25
+2023-06-23,Cardiology,Migraine,P4770,36-55,Male,401.42
+2023-11-20,Cardiology,Diabetes,P2104,75+,Female,400.74
+2023-05-02,Neurology,Fever,P8953,18-35,Male,3630.6
+2023-10-20,General Medicine,Fracture,P4981,56-75,Female,992.53
+2023-02-19,Pediatrics,Fracture,P6804,36-55,Female,4325.99
+2023-01-28,Pediatrics,Fever,P2612,0-17,Female,4012.93
+2023-02-25,Oncology,Diabetes,P4116,36-55,Male,2138.31
+2023-05-23,Orthopedics,Diabetes,P2235,36-55,Male,300.41
+2023-10-04,Cardiology,Hypertension,P4872,18-35,Female,2432.72
+2023-07-25,Cardiology,Diabetes,P7209,0-17,Female,1362.76
+2023-08-21,Neurology,Fracture,P8973,18-35,Female,1127.62
+2023-01-30,General Medicine,Fever,P9883,0-17,Female,332.97
+2023-10-27,Orthopedics,Migraine,P9701,18-35,Male,4264.15
+2023-02-05,General Medicine,Hypertension,P4853,36-55,Male,2915.65
+2023-01-21,General Medicine,Hypertension,P7868,36-55,Female,4676.8
+2023-04-15,Pediatrics,Fever,P6147,18-35,Female,697.85
+2023-11-27,Neurology,Fracture,P6180,75+,Male,96.11
+2023-11-15,General Medicine,Hypertension,P2200,36-55,Female,705.66
+2023-06-28,Cardiology,Diabetes,P7054,18-35,Female,4177.04
+2023-12-27,Neurology,Migraine,P9666,0-17,Female,4662.19
+2023-02-23,Oncology,Cancer,P2891,56-75,Male,1398.12
+2023-11-06,Oncology,Fever,P6617,18-35,Female,2551.77
+2023-05-09,Cardiology,Hypertension,P7939,56-75,Male,67.55
+2023-03-08,Pediatrics,Cancer,P3647,56-75,Female,2826.49
+2023-02-27,Cardiology,Fever,P3442,36-55,Female,2933.42
+2023-03-17,Orthopedics,Diabetes,P1685,18-35,Male,4499.68
+2023-04-18,Pediatrics,Diabetes,P2684,18-35,Female,4870.49
+2023-03-21,Oncology,Asthma,P3662,75+,Male,4413.01
+2023-01-13,Oncology,Fever,P6442,56-75,Female,4021.06
+2023-05-08,Neurology,Diabetes,P2771,18-35,Male,4300.04
+2023-04-24,Oncology,Asthma,P8541,18-35,Male,1153.47
+2023-12-04,Oncology,Fracture,P6378,18-35,Male,4836.1
+2023-05-23,Neurology,Fever,P9346,18-35,Female,4699.22
+2023-03-01,Neurology,Diabetes,P5349,0-17,Female,1761.15
+2023-06-10,Orthopedics,Migraine,P9379,18-35,Male,1310.88
+2023-12-29,Orthopedics,Hypertension,P9518,75+,Male,1852.9
+2023-02-05,Pediatrics,Cancer,P6143,36-55,Male,3612.78
+2023-06-03,General Medicine,Cancer,P7691,18-35,Female,2794.34
+2023-04-09,Orthopedics,Fever,P7211,36-55,Male,3096.8
+2023-06-04,Orthopedics,Migraine,P1006,18-35,Male,2177.95
+2023-10-24,General Medicine,Fever,P6279,36-55,Female,3394.35
+2023-09-19,Orthopedics,Asthma,P3780,36-55,Female,2601.49
+2023-11-21,General Medicine,Cancer,P2530,56-75,Male,3380.34
+2023-04-26,Oncology,Diabetes,P1400,0-17,Female,3075.81
+2023-02-07,Orthopedics,Fracture,P4185,56-75,Female,2497.17
+2023-05-05,Oncology,Fever,P1090,56-75,Male,3903.18
+2023-04-23,Oncology,Asthma,P9486,36-55,Male,4591.48
+2023-03-04,Orthopedics,Diabetes,P8612,36-55,Female,4752.7
+2023-08-15,General Medicine,Asthma,P9270,36-55,Female,4491.18
+2023-09-01,Orthopedics,Cancer,P5050,56-75,Female,3840.78
+2023-09-24,Orthopedics,Fever,P4919,18-35,Male,3582.05
+2023-05-01,Neurology,Cancer,P6238,56-75,Male,734.95
+2023-04-29,Orthopedics,Fever,P3503,56-75,Male,2103.6
+2023-06-19,General Medicine,Fracture,P7812,0-17,Female,1977.91
+2023-10-27,Pediatrics,Hypertension,P7232,36-55,Female,1528.13
+2023-07-19,Orthopedics,Migraine,P9947,56-75,Male,2466.74
+2023-05-20,Orthopedics,Fracture,P1475,18-35,Female,3634.7
+2023-08-28,Oncology,Migraine,P9751,0-17,Female,2979.87
+2023-12-06,Cardiology,Hypertension,P8022,18-35,Female,949.56
+2023-05-14,Orthopedics,Cancer,P4467,36-55,Female,3818.09
+2023-07-14,Neurology,Asthma,P7906,18-35,Male,2378.02
+2023-10-04,Cardiology,Cancer,P4673,36-55,Male,3783.45
+2023-05-07,Oncology,Asthma,P1333,36-55,Male,674.79
+2023-12-09,Cardiology,Migraine,P4571,36-55,Female,3846.15
+2023-03-27,General Medicine,Migraine,P2876,56-75,Male,4825.37
+2023-02-25,General Medicine,Hypertension,P6111,36-55,Female,2013.44
+2023-04-12,Cardiology,Migraine,P4978,18-35,Female,4258.95
+2023-11-04,Cardiology,Asthma,P1672,18-35,Female,3324.53
+2023-02-05,General Medicine,Fever,P6590,0-17,Female,4120.54
+2023-02-24,Orthopedics,Cancer,P8532,56-75,Female,921.88
+2023-09-25,Pediatrics,Cancer,P9817,56-75,Female,2206.09
+2023-10-31,Neurology,Cancer,P5022,56-75,Male,1430.69
+2023-08-19,Oncology,Asthma,P8613,36-55,Female,1715.16
+2023-09-11,Neurology,Diabetes,P8988,18-35,Female,1734.68
+2023-11-02,Pediatrics,Cancer,P1166,36-55,Male,473.78
+2023-07-28,Orthopedics,Migraine,P4937,36-55,Female,2268.46
+2023-01-09,Cardiology,Cancer,P4630,36-55,Male,1565.72
+2023-10-25,Neurology,Fracture,P9698,18-35,Female,1791.46
+2023-08-21,Neurology,Cancer,P5118,18-35,Male,1611.96
+2023-10-02,Pediatrics,Diabetes,P4138,18-35,Female,1418.67
+2023-10-29,General Medicine,Migraine,P5636,75+,Male,1516.42
+2023-07-04,Oncology,Cancer,P1231,56-75,Male,1407.84
+2023-01-28,General Medicine,Cancer,P3068,36-55,Female,557.81
+2023-01-07,General Medicine,Cancer,P8690,36-55,Female,962.6
+2023-01-27,Neurology,Asthma,P8827,18-35,Male,2033.5
+2023-02-07,General Medicine,Fever,P1878,18-35,Female,471.65
+2023-05-08,Cardiology,Migraine,P7818,36-55,Male,3889.68
+2023-07-14,Orthopedics,Fracture,P5871,56-75,Female,1561.63
+2023-11-14,Cardiology,Migraine,P2625,75+,Male,3146.3
+2023-05-16,Pediatrics,Hypertension,P3573,18-35,Male,824.84
+2023-07-29,Orthopedics,Fever,P8699,18-35,Male,1476.12
+2023-05-25,Pediatrics,Asthma,P8438,0-17,Male,4623.36
+2023-11-17,General Medicine,Fever,P4241,36-55,Male,3255.79
+2023-05-17,Oncology,Hypertension,P1977,18-35,Female,2995.47
+2023-10-19,Neurology,Fracture,P3037,36-55,Female,3513.68
+2023-05-20,General Medicine,Migraine,P9090,36-55,Male,4452.64
+2023-06-15,General Medicine,Cancer,P1423,0-17,Male,4997.88
+2023-12-11,Neurology,Migraine,P1659,56-75,Male,2378.98
+2023-11-30,Orthopedics,Cancer,P3973,75+,Female,3192.18
+2023-09-09,Cardiology,Fracture,P6700,36-55,Female,3367.16
+2023-03-24,Neurology,Fracture,P9117,18-35,Female,4077.15
+2023-10-09,Cardiology,Fracture,P2442,18-35,Female,623.81
+2023-07-26,General Medicine,Asthma,P1018,36-55,Female,2095.58
+2023-04-07,General Medicine,Cancer,P9167,36-55,Male,1057.61
+2023-10-09,Oncology,Cancer,P8178,56-75,Female,651.06
+2023-11-19,General Medicine,Asthma,P4920,56-75,Female,2776.65
+2023-10-10,Orthopedics,Hypertension,P4681,75+,Male,2334.17
+2023-03-02,Pediatrics,Asthma,P3522,36-55,Female,2568.92
+2023-05-20,Orthopedics,Asthma,P8905,75+,Male,2311.09
+2023-03-16,Orthopedics,Diabetes,P9327,56-75,Male,4326.93
+2023-05-22,Orthopedics,Cancer,P9318,18-35,Male,1450.05
+2023-06-02,General Medicine,Migraine,P9022,56-75,Female,2715.97
+2023-06-26,Neurology,Migraine,P9903,18-35,Female,4354.53
+2023-12-24,Oncology,Migraine,P7274,18-35,Female,266.05
+2023-08-31,Pediatrics,Asthma,P7246,18-35,Male,2501.88
+2023-01-19,Oncology,Migraine,P6439,56-75,Female,543.57
+2023-08-22,Cardiology,Fever,P3361,36-55,Male,420.4
+2023-05-16,Neurology,Migraine,P7512,36-55,Female,4269.09
+2023-10-01,Orthopedics,Cancer,P8994,56-75,Male,3106.42
+2023-05-01,Pediatrics,Fever,P5708,75+,Male,2198.16
+2023-02-20,Pediatrics,Fever,P2646,36-55,Female,4521.95
+2023-01-24,Neurology,Asthma,P1919,18-35,Female,2181.9
+2023-05-06,General Medicine,Fracture,P3950,18-35,Male,3066.98
+2023-07-15,General Medicine,Fever,P4945,36-55,Male,1199.33
+2023-11-23,Neurology,Fracture,P5183,36-55,Female,4510.99
+2023-12-13,General Medicine,Diabetes,P2210,36-55,Female,4938.88
+2023-06-03,Pediatrics,Fracture,P5097,36-55,Female,1036.12
+2023-07-16,Orthopedics,Hypertension,P4886,18-35,Female,2895.32
+2023-12-25,Neurology,Hypertension,P7484,18-35,Male,4557.55
+2023-09-12,Neurology,Asthma,P4770,36-55,Female,1134.07
+2023-04-08,General Medicine,Cancer,P3240,36-55,Male,1579.22
+2023-08-14,Cardiology,Migraine,P6977,56-75,Male,4552.66
+2023-06-17,Pediatrics,Fracture,P3877,18-35,Female,2677.72
+2023-05-20,Oncology,Cancer,P8894,75+,Female,3745.47
+2023-06-23,Cardiology,Fracture,P2233,18-35,Male,4307.7
+2023-12-12,Orthopedics,Asthma,P6992,0-17,Female,118.9
+2023-10-02,Cardiology,Fracture,P7038,36-55,Female,2943.57
+2023-11-23,Neurology,Hypertension,P4830,36-55,Female,4580.52
+2023-04-24,Pediatrics,Hypertension,P8606,75+,Female,3263.74
+2023-03-01,Oncology,Hypertension,P1609,18-35,Female,624.8
+2023-05-01,General Medicine,Diabetes,P7367,36-55,Female,2957.33
+2023-03-21,Orthopedics,Fever,P2622,56-75,Female,4698.31
+2023-05-24,Cardiology,Fever,P7070,18-35,Female,4755.25
+2023-07-05,Cardiology,Fever,P7018,36-55,Female,349.72
+2023-05-22,Oncology,Hypertension,P8450,0-17,Male,3226.44
+2023-11-02,Cardiology,Hypertension,P6464,18-35,Male,3945.54
+2023-04-16,Cardiology,Asthma,P4394,36-55,Male,1676.37
+2023-03-17,General Medicine,Hypertension,P5542,56-75,Male,4938.26
+2023-10-04,Neurology,Asthma,P3858,18-35,Male,702.43
+2023-07-03,Oncology,Migraine,P6304,0-17,Female,309.38
+2023-08-04,General Medicine,Hypertension,P2041,36-55,Female,2590.53
+2023-02-25,Orthopedics,Migraine,P4629,75+,Male,3649.85
+2023-12-04,General Medicine,Cancer,P8504,36-55,Male,351.09
+2023-09-03,Orthopedics,Fracture,P2768,36-55,Female,413.78
+2023-02-11,Neurology,Migraine,P3430,0-17,Female,3140.37
+2023-10-27,General Medicine,Fever,P6327,18-35,Female,2295.89
+2023-11-06,Orthopedics,Hypertension,P2874,56-75,Male,2178.85
+2023-04-27,Orthopedics,Cancer,P8430,18-35,Male,1597.11
+2023-06-10,Pediatrics,Cancer,P7132,75+,Female,382.31
+2023-02-13,Cardiology,Fracture,P2582,56-75,Female,4068.26
+2023-10-12,Cardiology,Migraine,P6400,36-55,Female,1800.31
+2023-12-07,Orthopedics,Asthma,P1842,75+,Female,1790.65
+2023-10-23,General Medicine,Diabetes,P3535,36-55,Male,4244.01
+2023-06-29,General Medicine,Cancer,P2882,56-75,Male,4045.75
+2023-10-15,General Medicine,Migraine,P1430,36-55,Female,193.32
+2023-05-20,Pediatrics,Asthma,P6062,75+,Female,80.22
+2023-03-15,General Medicine,Fever,P7566,0-17,Male,504.2
+2023-09-29,Oncology,Fracture,P7878,36-55,Male,1881.76
+2023-06-16,General Medicine,Migraine,P2391,56-75,Male,829.18
+2023-11-13,Cardiology,Fever,P2336,18-35,Female,2454.03
+2023-08-15,Orthopedics,Cancer,P4531,56-75,Male,1758.61
+2023-02-26,Neurology,Fever,P8972,36-55,Female,274.82
+2023-07-22,General Medicine,Hypertension,P1125,18-35,Male,3848.38
+2023-05-11,Neurology,Cancer,P2965,0-17,Female,919.69
+2023-07-14,General Medicine,Fever,P4770,36-55,Female,406.77
+2023-01-22,Orthopedics,Hypertension,P8532,75+,Female,2900.01
+2023-10-21,Orthopedics,Fever,P7843,18-35,Female,153.24
+2023-06-16,Oncology,Asthma,P8538,56-75,Female,486.24
+2023-02-24,Oncology,Fracture,P7560,36-55,Female,4359.1
+2023-06-23,Oncology,Cancer,P3754,0-17,Male,2676.49
+2023-04-10,Neurology,Cancer,P3419,18-35,Male,1317.04
+2023-03-30,General Medicine,Diabetes,P2234,18-35,Female,2346.57
+2023-10-16,General Medicine,Fracture,P6295,56-75,Female,797.24
+2023-02-04,Orthopedics,Fracture,P5961,56-75,Male,1792.11
+2023-02-07,Neurology,Fracture,P8404,0-17,Female,4166.9
+2023-02-09,Pediatrics,Asthma,P2479,36-55,Female,2340.42
+2023-10-11,Pediatrics,Hypertension,P8368,75+,Male,1641.56
+2023-09-01,General Medicine,Diabetes,P2013,36-55,Female,4912.81
+2023-02-13,General Medicine,Fever,P3827,0-17,Female,4955.38
+2023-09-26,General Medicine,Migraine,P3600,18-35,Female,1967.71
+2023-06-23,Pediatrics,Migraine,P1857,56-75,Female,376.26
+2023-02-18,General Medicine,Fever,P7333,18-35,Male,1700.14
+2023-10-26,Pediatrics,Diabetes,P6731,18-35,Female,688.31
+2023-12-29,Cardiology,Cancer,P7171,36-55,Female,4075.26
+2023-12-10,Pediatrics,Asthma,P9624,0-17,Female,2567.02
+2023-01-10,Neurology,Cancer,P3953,75+,Female,4740.96
+2023-09-06,Oncology,Diabetes,P3253,18-35,Female,4229.92
+2023-02-21,General Medicine,Asthma,P9843,56-75,Male,3326.55
+2023-11-13,Oncology,Migraine,P7172,18-35,Male,4165.16
+2023-11-16,Oncology,Fever,P8170,0-17,Female,3398.0
+2023-05-02,Orthopedics,Migraine,P5668,56-75,Female,1208.31
+2023-05-03,Neurology,Asthma,P8684,75+,Male,1870.81
+2023-10-20,Orthopedics,Fracture,P5616,56-75,Female,4833.03
+2023-04-13,General Medicine,Diabetes,P5096,0-17,Female,4376.88
+2023-10-11,Cardiology,Fever,P9452,56-75,Female,465.18
+2023-03-24,Neurology,Fracture,P9410,18-35,Female,503.98
+2023-04-24,Orthopedics,Cancer,P1436,36-55,Female,2534.94
+2023-05-01,Orthopedics,Hypertension,P7142,18-35,Female,4657.59
+2023-11-29,Neurology,Asthma,P3392,18-35,Female,4591.11
+2023-08-30,Pediatrics,Asthma,P3273,56-75,Female,2270.58
+2023-01-03,Cardiology,Hypertension,P5193,18-35,Male,2766.58
+2023-11-08,General Medicine,Fracture,P2821,56-75,Male,1540.7
+2023-01-25,Oncology,Fracture,P8489,0-17,Female,3003.86
+2023-01-09,Pediatrics,Migraine,P4963,56-75,Female,2174.73
+2023-11-11,Neurology,Diabetes,P7825,18-35,Male,2641.25
+2023-07-04,Cardiology,Migraine,P9914,36-55,Male,1982.75
+2023-08-29,Cardiology,Fever,P7338,75+,Female,3749.22
+2023-07-02,Cardiology,Cancer,P4950,56-75,Male,3868.93
+2023-06-20,Oncology,Hypertension,P6772,36-55,Male,4160.4
+2023-12-17,Orthopedics,Fever,P8840,36-55,Male,362.35
+2023-08-23,Cardiology,Cancer,P4302,0-17,Male,4434.66
+2023-06-11,Neurology,Migraine,P7524,75+,Female,1303.9
+2023-11-28,Oncology,Cancer,P6848,56-75,Male,4335.7
+2023-06-19,Neurology,Hypertension,P7029,36-55,Female,3729.37
+2023-07-17,Neurology,Diabetes,P9129,36-55,Female,4625.34
+2023-09-23,Neurology,Asthma,P2353,56-75,Male,2181.51
+2023-04-03,General Medicine,Cancer,P6262,18-35,Female,3321.55
+2023-06-06,Orthopedics,Migraine,P7981,18-35,Female,1790.16
+2023-01-22,Pediatrics,Asthma,P6776,36-55,Female,1409.05
+2023-01-30,Cardiology,Fever,P7655,18-35,Male,4766.31
+2023-03-15,General Medicine,Fever,P8179,0-17,Male,1218.18
+2023-11-27,Neurology,Cancer,P7272,75+,Male,3045.22
+2023-12-14,Orthopedics,Cancer,P7095,36-55,Male,2890.91
+2023-09-29,Neurology,Fracture,P6150,36-55,Male,4804.57
+2023-01-14,Pediatrics,Diabetes,P9176,36-55,Male,1345.79
+2023-05-14,Pediatrics,Fracture,P4515,75+,Female,3485.2
+2023-09-09,Oncology,Hypertension,P3223,56-75,Female,904.65
+2023-08-16,Cardiology,Asthma,P6236,36-55,Male,2772.49
+2023-05-29,Neurology,Asthma,P3580,56-75,Male,3978.8
+2023-09-18,Oncology,Hypertension,P4292,56-75,Male,3962.35
+2023-01-14,Neurology,Migraine,P7044,36-55,Male,3079.14
+2023-02-14,Cardiology,Cancer,P7523,75+,Female,2652.19
+2023-07-29,General Medicine,Hypertension,P3053,75+,Male,2277.37
+2023-12-15,General Medicine,Cancer,P3102,56-75,Male,3850.52
+2023-03-08,Orthopedics,Migraine,P1907,56-75,Male,1555.42
+2023-03-24,Neurology,Fever,P4694,18-35,Female,4237.37
+2023-05-09,Oncology,Fever,P5496,18-35,Female,3091.42
+2023-02-17,General Medicine,Fever,P3762,36-55,Male,897.44
+2023-11-16,Pediatrics,Migraine,P6531,56-75,Male,4134.92
+2023-01-15,Cardiology,Hypertension,P5336,36-55,Female,3109.64
+2023-01-16,Orthopedics,Fever,P9938,18-35,Female,2440.58
+2023-12-17,Orthopedics,Cancer,P8430,0-17,Male,832.5
+2023-08-01,Orthopedics,Fracture,P4342,18-35,Male,1597.28
+2023-06-13,Pediatrics,Asthma,P6658,75+,Male,3815.29
+2023-09-21,General Medicine,Hypertension,P6228,18-35,Male,1373.98
+2023-05-07,Oncology,Hypertension,P1829,18-35,Female,4327.61
+2023-08-03,Oncology,Asthma,P3616,56-75,Female,989.68
+2023-03-23,Orthopedics,Migraine,P8648,36-55,Female,2511.98
+2023-02-16,Orthopedics,Migraine,P8491,75+,Male,2937.55
+2023-01-25,Cardiology,Cancer,P9108,36-55,Female,1464.45
+2023-01-05,Cardiology,Fracture,P3194,56-75,Female,3831.09
+2023-07-07,Cardiology,Fracture,P1838,36-55,Male,1844.49
+2023-05-28,Cardiology,Fracture,P9261,36-55,Female,4135.29
+2023-11-16,Pediatrics,Migraine,P2946,18-35,Male,1999.82
+2023-06-23,General Medicine,Cancer,P3363,18-35,Female,2525.39
+2023-01-24,Cardiology,Diabetes,P6456,56-75,Female,787.26
+2023-09-21,Oncology,Cancer,P6218,18-35,Female,2988.94
+2023-09-17,General Medicine,Migraine,P9025,56-75,Female,2400.72
+2023-01-09,Neurology,Cancer,P2795,75+,Female,3993.94
+2023-12-19,Pediatrics,Hypertension,P8775,18-35,Male,3620.93
+2023-10-26,Orthopedics,Diabetes,P9589,36-55,Female,781.49
+2023-12-15,Oncology,Hypertension,P2800,18-35,Female,1602.78
+2023-03-19,Orthopedics,Fever,P4340,36-55,Female,4370.45
+2023-02-01,Pediatrics,Diabetes,P9498,18-35,Female,4990.71
+2023-09-02,General Medicine,Fracture,P6140,75+,Female,4565.01
+2023-06-25,General Medicine,Cancer,P5331,36-55,Male,4788.82
+2023-05-23,General Medicine,Cancer,P4684,75+,Female,3867.31
+2023-12-27,Oncology,Fever,P9011,18-35,Female,2824.41
+2023-05-21,Neurology,Hypertension,P9899,18-35,Female,4100.97
+2023-03-16,Neurology,Hypertension,P5712,75+,Male,1764.5
+2023-08-15,Pediatrics,Cancer,P8849,18-35,Female,4668.47
+2023-12-23,Neurology,Diabetes,P2789,36-55,Male,1250.17
+2023-12-09,General Medicine,Diabetes,P4814,0-17,Female,1684.95
+2023-08-30,Cardiology,Fever,P3252,0-17,Male,2064.19
+2023-09-01,Orthopedics,Fever,P4267,56-75,Female,1639.78
+2023-11-27,Cardiology,Asthma,P2465,36-55,Male,2699.0
+2023-01-20,Oncology,Fracture,P3880,75+,Male,4986.0
+2023-07-23,Orthopedics,Diabetes,P5742,56-75,Male,1527.04
+2023-11-05,Cardiology,Cancer,P5662,36-55,Female,4451.84
+2023-03-10,General Medicine,Fracture,P5470,18-35,Male,1686.89
+2023-08-23,Pediatrics,Cancer,P4050,0-17,Female,3964.3
+2023-10-18,Pediatrics,Asthma,P4164,18-35,Female,4143.6
+2023-09-21,Neurology,Hypertension,P7567,36-55,Male,4909.34
+2023-09-02,Neurology,Diabetes,P1111,18-35,Male,2261.34
+2023-05-17,Neurology,Cancer,P1187,18-35,Female,3479.2
+2023-02-01,Pediatrics,Hypertension,P8625,18-35,Female,3446.06
+2023-12-27,Neurology,Fever,P2923,36-55,Female,1869.34
+2023-04-24,Oncology,Diabetes,P8834,18-35,Female,2108.44
+2023-10-09,Orthopedics,Asthma,P9806,56-75,Male,3821.21
+2023-12-15,General Medicine,Asthma,P2341,36-55,Female,436.61
+2023-10-16,Cardiology,Hypertension,P9972,75+,Male,2884.87
+2023-03-18,Oncology,Cancer,P9525,36-55,Male,3598.74
+2023-09-08,Cardiology,Migraine,P8298,56-75,Female,703.12
+2023-08-01,Orthopedics,Migraine,P1945,36-55,Female,3630.24
+2023-07-22,Neurology,Asthma,P1049,56-75,Male,274.18
+2023-06-26,Pediatrics,Hypertension,P9866,75+,Male,4931.38
+2023-08-30,Cardiology,Cancer,P7698,18-35,Male,3840.85
+2023-11-27,Orthopedics,Cancer,P7266,36-55,Female,1909.45
+2023-12-16,Pediatrics,Asthma,P9835,18-35,Female,637.23
+2023-10-03,Orthopedics,Migraine,P3086,56-75,Male,4182.37
+2023-01-12,Neurology,Fracture,P9920,36-55,Female,4125.63
+2023-05-07,Orthopedics,Cancer,P3541,18-35,Male,209.48
+2023-12-05,Orthopedics,Migraine,P1256,18-35,Male,549.44
+2023-01-18,Orthopedics,Migraine,P1797,18-35,Male,2041.21
+2023-04-30,General Medicine,Diabetes,P1924,18-35,Female,1209.1
+2023-10-22,Neurology,Migraine,P6253,18-35,Male,4929.19
+2023-09-24,Oncology,Fracture,P5923,18-35,Male,3148.67
+2023-08-07,General Medicine,Fracture,P1768,75+,Female,3939.73
+2023-06-13,Pediatrics,Fracture,P7688,18-35,Female,960.2
+2023-10-03,Orthopedics,Diabetes,P4692,18-35,Male,4038.59
+2023-01-30,General Medicine,Fracture,P7824,36-55,Male,1972.67
+2023-05-11,Oncology,Cancer,P2295,75+,Female,507.7
+2023-04-08,Cardiology,Cancer,P7179,36-55,Male,4374.42
+2023-04-07,General Medicine,Fever,P4555,36-55,Female,1550.78
+2023-01-08,Oncology,Diabetes,P2922,56-75,Female,4576.48
+2023-12-23,General Medicine,Fever,P4350,18-35,Male,2782.79
+2023-05-25,Orthopedics,Fracture,P9743,36-55,Female,1344.73
+2023-09-20,Orthopedics,Fracture,P2615,56-75,Female,3820.06
+2023-06-13,Oncology,Cancer,P6126,36-55,Male,3719.2
+2023-01-09,Neurology,Migraine,P7841,18-35,Male,1682.83
+2023-07-14,General Medicine,Asthma,P5026,36-55,Female,1323.77
+2023-09-08,Pediatrics,Fever,P9037,36-55,Female,887.87
+2023-10-07,Orthopedics,Diabetes,P9882,75+,Male,2643.52
+2023-02-08,Pediatrics,Hypertension,P1104,36-55,Male,386.44
+2023-03-19,Cardiology,Diabetes,P9285,36-55,Male,3108.28
+2023-12-08,General Medicine,Fracture,P8993,0-17,Female,108.66
+2023-09-29,Pediatrics,Cancer,P9777,75+,Male,2535.97
+2023-12-24,Pediatrics,Fracture,P3937,18-35,Male,2645.71
+2023-05-04,Oncology,Migraine,P9625,18-35,Female,1373.26
+2023-07-23,Cardiology,Cancer,P7652,36-55,Male,4951.65
+2023-04-26,Neurology,Fever,P2320,36-55,Male,512.83
+2023-07-14,Orthopedics,Migraine,P8798,0-17,Male,3529.08
+2023-02-12,Orthopedics,Asthma,P8109,36-55,Female,2850.99
+2023-02-18,General Medicine,Hypertension,P4764,18-35,Female,1391.92
+2023-02-08,Pediatrics,Cancer,P9897,36-55,Male,937.8
+2023-06-11,Cardiology,Diabetes,P3362,56-75,Female,4647.93
+2023-06-03,Oncology,Migraine,P4939,36-55,Female,3401.32
+2023-10-04,Neurology,Fracture,P3292,56-75,Male,2528.92
+2023-06-27,Cardiology,Hypertension,P8161,18-35,Male,1735.93
+2023-11-11,General Medicine,Fracture,P6347,0-17,Female,3928.56
+2023-08-19,Orthopedics,Diabetes,P6829,36-55,Female,2187.65
+2023-12-15,General Medicine,Fever,P7227,0-17,Female,4000.37
+2023-02-07,Cardiology,Cancer,P3526,18-35,Male,3711.29
+2023-06-12,Neurology,Hypertension,P2499,0-17,Female,2251.44
+2023-05-19,Cardiology,Diabetes,P2430,18-35,Female,2807.08
+2023-09-20,Orthopedics,Hypertension,P1430,0-17,Male,3004.78
+2023-06-16,Orthopedics,Hypertension,P5781,36-55,Male,3637.98
+2023-10-14,Oncology,Migraine,P9537,18-35,Female,889.03
+2023-05-18,Neurology,Cancer,P9079,18-35,Male,2201.65
+2023-08-04,Neurology,Fracture,P2260,18-35,Male,3618.45
+2023-09-11,General Medicine,Migraine,P4203,36-55,Male,1558.06
+2023-07-22,Neurology,Asthma,P7224,56-75,Female,2229.1
+2023-08-09,Pediatrics,Migraine,P3230,18-35,Male,2421.1
+2023-04-01,Orthopedics,Cancer,P5775,56-75,Female,4840.43
+2023-05-05,Neurology,Fracture,P5592,56-75,Female,1856.83
+2023-10-16,Oncology,Migraine,P9939,18-35,Male,4767.37
+2023-08-25,Pediatrics,Diabetes,P8183,56-75,Male,4103.88
+2023-07-29,Pediatrics,Fracture,P3280,36-55,Male,1300.77
+2023-03-20,Pediatrics,Fracture,P7176,0-17,Female,2932.11
+2023-10-01,General Medicine,Asthma,P7853,36-55,Female,3523.09
+2023-10-02,General Medicine,Fever,P2392,18-35,Male,3305.13
+2023-07-01,Oncology,Fever,P1725,36-55,Female,4835.72
+2023-06-19,Orthopedics,Hypertension,P1172,0-17,Male,2577.85
