@@ -1,0 +1,5 @@
+{
+  "output_dir": "output",
+  "save_csv": true,
+  "generate_plot": false
+}
