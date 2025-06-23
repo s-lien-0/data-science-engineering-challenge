@@ -1,0 +1,12 @@
+# 🩺 Hospital Visit Summary
+
+**Insight 1:**  
+General Medicine, Cardiology, and Orthopaedics account for the highest total visit costs across the year.
+
+**Insight 2:**  
+Males and females incur similar total costs overall, suggesting gender-balanced service use.
+However, patients aged 18–55 contribute the most to total cost — primarily due to higher visit volume and higher cost per visit.
+ 
+**Insight 3:**  
+The highest total monthly costs were recorded in March, June, and November.
+These spikes are likely related to seasonal illnesses (e.g., flu, respiratory cases) and may justify increased seasonal staffing or awareness campaigns in those periods.
