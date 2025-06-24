@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "date": "2025-06-20",
+      "symptoms": [
+        "cough",
+        "fever"
+      ],
+      "severity": 3,
+      "notes": "Felt weak"
+    },
+    {
+      "date": "2025-06-21",
+      "symptoms": [
+        "headache"
+      ],
+      "severity": 2,
+      "notes": null
+    },
+    {
+      "date": "2025-06-22",
+      "symptoms": [
+        "fatigue",
+        "nausea"
+      ],
+      "severity": 4,
+      "notes": "Worse in the morning"
+    }
+  ]
+}
