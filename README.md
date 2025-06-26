@@ -49,9 +49,10 @@ The aim is to develop a well-structured, practical archive of real-world data ch
 | 06        | Time Series Sales Trends | Resampling, seasonality, lineplots, moving averages | Complete |
 | 07        | Margin Leakage in Clinical Supplies | Multi-source joins, margin calculations, enrich | Complete |
 | 08        | CRM and Transaction analytics | Nested JSON Flattening, safe logic, derived fields, argparse, modularization, pytest, logging, Makefile automation | Complete |
-| 09        | Data Validation Framework | Input/data schema validation, error handling, modularity, testing | In Progress |
+| 09        | Data Validation Framework | Input/data schema validation, error handling, modularity, testing | Complete |
 | 10        | Config-Driven Outputs | CLI flags, YAML/JSON configs, logging output behaviors, report generation | Complete |
 | 11        | Symptom Tracker API Wrapper | OOP, JSON API integration, reusable client design, filtering, DataFrame export | In Progress |
+| 12        | Clinical Trial Scraper | API interaction, nested JSON flattening, pandas normalization, bar chart + insight writing | Complete |
 ---
 
 ## How to Use This Repository
