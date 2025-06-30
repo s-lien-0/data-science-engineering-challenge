@@ -21,6 +21,8 @@ Scrape the **latest 100 interventional trials** for **"Type 2 Diabetes"**, norma
 
 ## 📦 Output
 
+**Notebook:**
+- `12_clinical_trial_api.ipynb` — Scrapes the v2 JSON API for latest Type 2 Diabetes trials.
 **File:** `output/trials_diabetes.csv`  
 **Columns:**
 
