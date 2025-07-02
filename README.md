@@ -39,20 +39,24 @@ The aim is to develop a well-structured, practical archive of real-world data ch
 
 ## Challenges Completed
 
+## Challenges Completed
+
 | Challenge | Focus Area | Skill Focus | Status |
-|----------:|------------|------|--------|
-| 01        | Supermarket Sales EDA | Pandas - Grouping, charting, visual/textual insight writing | Complete |
-| 02        | Python Function Practice | Leetcode-style logic, pandas, clean syntax, edge cases	 | Complete |
-| 03        | JSON-Like Data Parsing | Parsing semi-structured data, flattening, query building | Complete |
-| 04        | Retail Data Pipeline | Modular loading, cleaning, aggregation, pipeline chaining | Complete |
-| 05        | Advanced Revenue Insights | Grouped analysis, time trends, business storytelling | Complete |
-| 06        | Time Series Sales Trends | Resampling, seasonality, lineplots, moving averages | Complete |
-| 07        | Margin Leakage in Clinical Supplies | Multi-source joins, margin calculations, enrich | Complete |
-| 08        | CRM and Transaction analytics | Nested JSON Flattening, safe logic, derived fields, argparse, modularization, pytest, logging, Makefile automation | Complete |
-| 09        | Data Validation Framework | Input/data schema validation, error handling, modularity, testing | Complete |
-| 10        | Config-Driven Outputs | CLI flags, YAML/JSON configs, logging output behaviors, report generation | Complete |
-| 11        | Symptom Tracker API Wrapper | OOP, JSON API integration, reusable client design, filtering, DataFrame export | In Progress |
-| 12        | Clinical Trial Scraper | API interaction, nested JSON flattening, pandas normalization, bar chart + insight writing | Complete |
+|----------:|------------|-------------|--------|
+| 01 | Supermarket Sales EDA | Pandas – grouping, charting, visual/textual insight writing | Complete |
+| 02 | Python Function Practice | LeetCode-style logic, pandas, clean syntax, edge cases | Complete |
+| 03 | JSON-Like Data Parsing | Parsing semi-structured data, flattening, query building | Complete |
+| 04 | Retail Data Pipeline | Modular loading, cleaning, aggregation, pipeline chaining | Complete |
+| 05 | Advanced Revenue Insights | Grouped analysis, time trends, business storytelling | Complete |
+| 06 | Time-Series Sales Trends | Resampling, seasonality, line-plots, moving averages | Complete |
+| 07 | Margin Leakage in Clinical Supplies | Multi-source joins, margin calculations, enrichment | Complete |
+| 08 | CRM & Transaction Analytics | Nested-JSON flattening, safe logic, derived fields, argparse, modularisation, pytest, logging, Makefile automation | Complete |
+| 09 | Data-Validation Framework | Input/data schema validation, error handling, modularity, testing | Complete |
+| 10 | Config-Driven Outputs | CLI flags, YAML/JSON configs, logging behaviours, report generation | Complete |
+| 11 | Symptom-Tracker API Wrapper | OOP, JSON-API integration, reusable client design, filtering, DataFrame export | In Progress |
+| 12 | Clinical-Trial Scraper | API interaction, nested-JSON normalisation, pandas, bar chart, insight writing | Complete |
+| 13 | Drug Adherence Analytics | PostgreSQL, SQLAlchemy 2.x, Alembic, Docker, pandas, matplotlib | In Progress |
+
 ---
 
 ## How to Use This Repository

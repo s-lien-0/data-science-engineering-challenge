@@ -1,0 +1,25 @@
+patient_id,drug,refill_date
+P-0001,Atorvastatin 20 mg,2025-05-01
+P-0001,Metformin 500 mg,2025-05-27
+P-0001,Atorvastatin 20 mg,2025-06-27
+P-0001,Atorvastatin 20 mg,2025-07-23
+P-0001,Metformin 500 mg,2025-08-26
+P-0001,Lisinopril 10 mg,2025-09-22
+P-0002,Metformin 500 mg,2025-05-02
+P-0002,Atorvastatin 20 mg,2025-05-31
+P-0002,Metformin 500 mg,2025-06-29
+P-0002,Atorvastatin 20 mg,2025-08-01
+P-0003,Atorvastatin 20 mg,2025-05-04
+P-0003,Metformin 500 mg,2025-05-31
+P-0003,Atorvastatin 20 mg,2025-06-26
+P-0003,Lisinopril 10 mg,2025-07-25
+P-0004,Atorvastatin 20 mg,2025-05-04
+P-0004,Atorvastatin 20 mg,2025-06-08
+P-0004,Atorvastatin 20 mg,2025-07-04
+P-0004,Lisinopril 10 mg,2025-07-31
+P-0005,Lisinopril 10 mg,2025-05-01
+P-0005,Atorvastatin 20 mg,2025-05-29
+P-0005,Lisinopril 10 mg,2025-06-24
+P-0005,Metformin 500 mg,2025-07-19
+P-0005,Metformin 500 mg,2025-08-20
+P-0005,Metformin 500 mg,2025-09-17
