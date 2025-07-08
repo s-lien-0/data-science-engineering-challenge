@@ -365,3 +365,4 @@ logs/
 
 # Alembic migration artifacts
 alembic/versions/*.pyc
+challenge_13_SQL‑Based_Drug_Adherence_Analytics
