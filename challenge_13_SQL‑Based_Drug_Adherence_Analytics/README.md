@@ -133,9 +133,3 @@ GRACE_PERCENT          = 0.20 # 20 % grace period for late flag
 docker compose down -v     # stop & delete Postgres container & data volume
 rm -rf .venv               # remove virtualenv
 ```
-
----
-
-## License / attribution
-
-MIT License © 2025 Your Name Here. Forked for educational use from **Challenge 13** prompt.

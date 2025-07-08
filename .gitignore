@@ -277,3 +277,91 @@ Temporary Items
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
+
+# Python bytecode and build artifacts
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Output files
+outputs/
+*.csv
+*.png
+
+# Environment variables
+.env
+.env.*
+
+# SQLite (if you test locally with it)
+*.sqlite3
+*.db
+
+# Jupyter (if used in notebooks)
+.ipynb_checkpoints/
+
+# IDEs / Editors
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Alembic migration artifacts
+alembic/versions/*.pyc
+
+# Python bytecode and build artifacts
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Output files
+outputs/
+*.csv
+*.png
+
+# Environment variables
+.env
+.env.*
+
+# SQLite (if you test locally with it)
+*.sqlite3
+*.db
+
+# Jupyter (if used in notebooks)
+.ipynb_checkpoints/
+
+# IDEs / Editors
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Alembic migration artifacts
+alembic/versions/*.pyc
