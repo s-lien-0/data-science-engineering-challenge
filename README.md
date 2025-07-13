@@ -55,7 +55,8 @@ The aim is to develop a well-structured, practical archive of real-world data ch
 | 10 | Config-Driven Outputs | CLI flags, YAML/JSON configs, logging behaviours, report generation | Complete |
 | 11 | Symptom-Tracker API Wrapper | OOP, JSON-API integration, reusable client design, filtering, DataFrame export | In Progress |
 | 12 | Clinical-Trial Scraper | API interaction, nested-JSON normalisation, pandas, bar chart, insight writing | Complete |
-| 13 | Drug Adherence Analytics | PostgreSQL, SQLAlchemy 2.x, Alembic, Docker, pandas, matplotlib | In Progress |
+| 13 | Drug Adherence Analytics | PostgreSQL, SQLAlchemy 2.x, Alembic, Docker, pandas, matplotlib | Complete |
+| 14 | Clinical Log Parser | Regex parsing, text-to-JSON/CSV, validation, null handling, CLI design (optional) | Started |
 
 ---
 
