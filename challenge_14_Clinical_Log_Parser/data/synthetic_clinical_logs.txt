@@ -1,0 +1,200 @@
+Patient: Erica Kennedy | Temp: 39.0°C | BP: 127/64 | Notes: Mild cough
+Patient: Kiara Fisher | Temp: --°C | BP: 127/62 | Notes: headache and nausea
+Patient: Douglas Benton | Temp: --°C | BP: 135/85 | Notes: complained of fatigue
+Patient: William Maldonado | Temp: --°C | BP: not taken | Notes: complained of fatigue
+Patient: Nicole Velazquez | Temp: 36.8°C | BP: 142/71 | Notes: chest pain
+Patient: Tyler Hinton | Temp: 38.1°C | BP: 109/92 | Notes: 
+Patient: Terri Cook | Temp: 39.2°C | BP: 144/74 | Notes: no complaints
+Patient: Jason Wise | Temp: --°C | BP: 126/71 | Notes: "shortness of breath"
+Patient: Jorge Harmon | Temp: --°C | BP: not taken | Notes: chest pain
+Patient: Nicholas Walker | Temp: 39.7°C | BP: 119/78 | Notes: 
+Patient: David Tapia | Temp: 36.4°C | BP: 119/92 | Notes: chest pain
+Patient: Ashley Martin | Temp: --°C | BP: 116/78 | Notes: "shortness of breath"
+Patient: Joseph Hunter | Temp: --°C | BP: 142/62 | Notes: no complaints
+Patient: Jennifer Valenzuela | Temp: --°C | BP: not taken | Notes: chest pain
+Patient: Mark Gilmore | Temp: 36.1°C | BP: not taken | Notes: headache and nausea
+Patient: Sarah Frazier | Temp: 39.8°C | BP: 102/74 | Notes: 
+Patient: Michael Mccall | Temp: --°C | BP: not taken | Notes: Mild cough
+Patient: Anthony Scott | Temp: --°C | BP: not taken | Notes: Mild cough
+Patient: Theresa Mccoy | Temp: --°C | BP: not taken | Notes: 
+Patient: Whitney Preston | Temp: 39.6°C | BP: not taken | Notes: 
+Patient: Dr. Frank Butler | Temp: 36.8°C | BP: 130/89 | Notes: "shortness of breath"
+Patient: James Gomez | Temp: 37.1°C | BP: 144/71 | Notes: no complaints
+Patient: Jeffery Phillips | Temp: 39.6°C | BP: 126/93 | Notes: Mild cough
+Patient: Morgan Montgomery MD | Temp: 36.8°C | BP: 123/80 | Notes: chest pain
+Patient: Emily Howard | Temp: 39.2°C | BP: 100/65 | Notes: Mild cough
+Patient: Alan Collins | Temp: 39.5°C | BP: not taken | Notes: headache and nausea
+Patient: Cheryl Wilson | Temp: --°C | BP: not taken | Notes: Mild cough
+Patient: David Miller | Temp: 40.0°C | BP: not taken | Notes: headache and nausea
+Patient: Ryan Salazar | Temp: --°C | BP: not taken | Notes: no complaints
+Patient: Paula Jones | Temp: 38.9°C | BP: 138/84 | Notes: chest pain
+Patient: Patrick Navarro | Temp: --°C | BP: not taken | Notes: no complaints
+Patient: Sean Burns | Temp: 36.7°C | BP: not taken | Notes: Mild cough
+Patient: Amanda Holmes | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: Pamela Mckenzie | Temp: --°C | BP: not taken | Notes: Mild cough
+Patient: Jennifer Villarreal | Temp: 36.2°C | BP: not taken | Notes: no complaints
+Patient: Trevor Gay | Temp: 36.2°C | BP: not taken | Notes: complained of fatigue
+Patient: Christopher Mays | Temp: --°C | BP: not taken | Notes: headache and nausea
+Patient: Kelly Turner | Temp: --°C | BP: 141/70 | Notes: chest pain
+Patient: Chad Wilkins | Temp: 38.7°C | BP: not taken | Notes: chest pain
+Patient: Jonathan Gates | Temp: 37.5°C | BP: not taken | Notes: 
+Patient: Hannah Osborn | Temp: 38.9°C | BP: 98/62 | Notes: complained of fatigue
+Patient: Michelle Robbins | Temp: --°C | BP: 134/87 | Notes: headache and nausea
+Patient: Nathan Reed | Temp: 36.8°C | BP: not taken | Notes: headache and nausea
+Patient: Paula Dorsey | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: Troy Owens | Temp: --°C | BP: not taken | Notes: complained of fatigue
+Patient: Alan Alvarado | Temp: --°C | BP: not taken | Notes: complained of fatigue
+Patient: Christine Reed | Temp: 37.0°C | BP: not taken | Notes: chest pain
+Patient: Tammy Richard | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: Meredith Wolfe | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: John Fuller | Temp: 36.6°C | BP: not taken | Notes: "shortness of breath"
+Patient: Katherine Walker | Temp: 36.0°C | BP: not taken | Notes: complained of fatigue
+Patient: Joseph Lawson | Temp: --°C | BP: 112/71 | Notes: no complaints
+Patient: Kevin Medina | Temp: 36.9°C | BP: 114/89 | Notes: "shortness of breath"
+Patient: Ann Lara | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: David Cohen | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: Troy Cox | Temp: --°C | BP: not taken | Notes: complained of fatigue
+Patient: Travis Mendoza | Temp: 36.4°C | BP: not taken | Notes: Mild cough
+Patient: John Gonzalez | Temp: 39.5°C | BP: not taken | Notes: headache and nausea
+Patient: Raymond Taylor | Temp: --°C | BP: not taken | Notes: Mild cough
+Patient: Nicholas Perez | Temp: --°C | BP: 103/85 | Notes: no complaints
+Patient: Charles Davis | Temp: --°C | BP: 143/86 | Notes: "shortness of breath"
+Patient: Alejandra Jackson | Temp: 39.6°C | BP: 110/80 | Notes: no complaints
+Patient: Ian Gutierrez | Temp: 37.9°C | BP: 104/62 | Notes: 
+Patient: Miss Lisa Walker | Temp: 39.6°C | BP: 92/82 | Notes: headache and nausea
+Patient: Jerry Schultz | Temp: 36.0°C | BP: 129/69 | Notes: complained of fatigue
+Patient: Kristina Nguyen | Temp: 39.4°C | BP: 119/91 | Notes: Mild cough
+Patient: Mr. Donald Long | Temp: 38.2°C | BP: not taken | Notes: headache and nausea
+Patient: Cody Barker | Temp: 36.4°C | BP: not taken | Notes: 
+Patient: Jessica Marshall | Temp: 37.7°C | BP: not taken | Notes: complained of fatigue
+Patient: Stephanie Harris | Temp: 37.0°C | BP: not taken | Notes: 
+Patient: Regina Taylor | Temp: 37.6°C | BP: not taken | Notes: no complaints
+Patient: Jacob Gomez | Temp: 38.1°C | BP: not taken | Notes: no complaints
+Patient: Ray Soto | Temp: --°C | BP: 134/87 | Notes: chest pain
+Patient: Jack Jackson | Temp: --°C | BP: 98/61 | Notes: 
+Patient: Gregory Perez | Temp: --°C | BP: 113/75 | Notes: no complaints
+Patient: Marissa Berry | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: Mr. Albert Lee | Temp: --°C | BP: 150/68 | Notes: chest pain
+Patient: Brandy Davis | Temp: 36.8°C | BP: 109/91 | Notes: "shortness of breath"
+Patient: Daniel Moss | Temp: 39.0°C | BP: not taken | Notes: "shortness of breath"
+Patient: Tiffany Gilmore | Temp: 37.7°C | BP: 129/69 | Notes: no complaints
+Patient: Calvin Smith | Temp: --°C | BP: not taken | Notes: complained of fatigue
+Patient: Jessica Tran | Temp: 39.8°C | BP: 91/67 | Notes: headache and nausea
+Patient: Elizabeth Molina | Temp: 37.8°C | BP: not taken | Notes: complained of fatigue
+Patient: Dr. Kimberly Simmons | Temp: 37.1°C | BP: 141/93 | Notes: no complaints
+Patient: Kyle Hernandez | Temp: --°C | BP: 108/84 | Notes: no complaints
+Patient: Erin Carney | Temp: --°C | BP: 101/89 | Notes: Mild cough
+Patient: Cody Williams | Temp: --°C | BP: not taken | Notes: no complaints
+Patient: Sherri Garcia | Temp: 36.6°C | BP: not taken | Notes: "shortness of breath"
+Patient: Paul Miranda | Temp: --°C | BP: 95/73 | Notes: Mild cough
+Patient: Kristen Hernandez | Temp: 38.5°C | BP: 131/72 | Notes: chest pain
+Patient: Dr. Miguel Perez MD | Temp: 38.2°C | BP: not taken | Notes: no complaints
+Patient: Nicole Moore | Temp: --°C | BP: 145/94 | Notes: chest pain
+Patient: Dana Kennedy | Temp: 39.8°C | BP: not taken | Notes: chest pain
+Patient: Lisa Acosta | Temp: --°C | BP: 94/74 | Notes: Mild cough
+Patient: Jennifer Aguilar | Temp: --°C | BP: not taken | Notes: complained of fatigue
+Patient: Luis Quinn | Temp: --°C | BP: 107/86 | Notes: 
+Patient: Ronald Ellis | Temp: --°C | BP: not taken | Notes: chest pain
+Patient: Debra Thomas | Temp: --°C | BP: not taken | Notes: chest pain
+Patient: William Sawyer | Temp: --°C | BP: 136/67 | Notes: 
+Patient: Tammy Wright | Temp: 38.5°C | BP: not taken | Notes: 
+Patient: Jennifer Ruiz | Temp: 37.9°C | BP: 104/72 | Notes: headache and nausea
+Patient: Jennifer Mcdaniel | Temp: --°C | BP: 113/80 | Notes: chest pain
+Patient: Dominic Daniels | Temp: --°C | BP: 102/93 | Notes: chest pain
+Patient: Wanda Norris | Temp: --°C | BP: 126/84 | Notes: 
+Patient: Zachary Whitehead | Temp: 39.0°C | BP: 94/64 | Notes: chest pain
+Patient: Jamie Benson | Temp: --°C | BP: not taken | Notes: Mild cough
+Patient: Stephanie Johnson | Temp: 37.1°C | BP: 103/70 | Notes: 
+Patient: Matthew Taylor | Temp: --°C | BP: not taken | Notes: headache and nausea
+Patient: Linda Cox | Temp: 38.3°C | BP: not taken | Notes: "shortness of breath"
+Patient: Alexandra Young | Temp: --°C | BP: not taken | Notes: 
+Patient: Kevin Shelton | Temp: --°C | BP: not taken | Notes: Mild cough
+Patient: Joseph Adams | Temp: 37.8°C | BP: not taken | Notes: no complaints
+Patient: Katie Price MD | Temp: --°C | BP: 94/90 | Notes: complained of fatigue
+Patient: Brandon Osborn | Temp: 37.0°C | BP: 95/85 | Notes: complained of fatigue
+Patient: Jake Williams | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: William Clay | Temp: 38.7°C | BP: 94/69 | Notes: 
+Patient: Jeffrey Cook | Temp: 39.4°C | BP: 107/66 | Notes: no complaints
+Patient: Eric Wright | Temp: 38.6°C | BP: 101/88 | Notes: complained of fatigue
+Patient: Carolyn Norton PhD | Temp: 39.6°C | BP: not taken | Notes: 
+Patient: Jillian Heath | Temp: 37.9°C | BP: 135/92 | Notes: "shortness of breath"
+Patient: Donald Hunt | Temp: 37.4°C | BP: not taken | Notes: "shortness of breath"
+Patient: Jennifer Curtis | Temp: 38.8°C | BP: not taken | Notes: no complaints
+Patient: Jorge Fields | Temp: --°C | BP: not taken | Notes: headache and nausea
+Patient: Richard Johnston MD | Temp: --°C | BP: not taken | Notes: chest pain
+Patient: Larry Brown | Temp: --°C | BP: 107/72 | Notes: Mild cough
+Patient: Kimberly Donovan | Temp: 39.4°C | BP: not taken | Notes: headache and nausea
+Patient: Andrea Hart | Temp: 39.4°C | BP: 132/71 | Notes: Mild cough
+Patient: Jessica Perkins | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: Veronica Padilla | Temp: --°C | BP: not taken | Notes: headache and nausea
+Patient: Juan Knight | Temp: 36.7°C | BP: not taken | Notes: "shortness of breath"
+Patient: John Carlson | Temp: --°C | BP: not taken | Notes: Mild cough
+Patient: William Skinner | Temp: 39.5°C | BP: not taken | Notes: headache and nausea
+Patient: Heather Cobb | Temp: 38.1°C | BP: 106/91 | Notes: "shortness of breath"
+Patient: Mr. Tyler Ferguson MD | Temp: 37.3°C | BP: 149/91 | Notes: headache and nausea
+Patient: Brittany Adams | Temp: --°C | BP: not taken | Notes: chest pain
+Patient: Melissa Carson | Temp: --°C | BP: not taken | Notes: headache and nausea
+Patient: Luis Moreno | Temp: 38.4°C | BP: not taken | Notes: headache and nausea
+Patient: Mary Reynolds | Temp: 39.7°C | BP: 119/70 | Notes: no complaints
+Patient: Angela Blair | Temp: 37.9°C | BP: 117/88 | Notes: headache and nausea
+Patient: Christopher Brown | Temp: 36.4°C | BP: not taken | Notes: Mild cough
+Patient: Jose Davis | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: Mrs. Jennifer Zuniga DDS | Temp: --°C | BP: 117/77 | Notes: "shortness of breath"
+Patient: Mrs. Tiffany Marshall | Temp: 39.9°C | BP: not taken | Notes: Mild cough
+Patient: Amanda Kelly | Temp: --°C | BP: 147/70 | Notes: headache and nausea
+Patient: Lauren Vazquez | Temp: 39.5°C | BP: 110/84 | Notes: chest pain
+Patient: Allison Ford | Temp: --°C | BP: not taken | Notes: chest pain
+Patient: Jennifer Alvarado | Temp: 37.2°C | BP: 116/87 | Notes: 
+Patient: Jennifer Santiago | Temp: --°C | BP: not taken | Notes: complained of fatigue
+Patient: Christina Moore | Temp: 39.7°C | BP: 112/87 | Notes: Mild cough
+Patient: Marcus Johnson | Temp: --°C | BP: 145/62 | Notes: chest pain
+Patient: Nicholas Nolan | Temp: 39.3°C | BP: not taken | Notes: no complaints
+Patient: Jessica Small | Temp: --°C | BP: not taken | Notes: Mild cough
+Patient: Robert Moore | Temp: --°C | BP: 99/93 | Notes: no complaints
+Patient: Lisa Roberts | Temp: --°C | BP: 118/81 | Notes: no complaints
+Patient: Shawn Price | Temp: --°C | BP: not taken | Notes: no complaints
+Patient: Vincent Prince | Temp: --°C | BP: not taken | Notes: complained of fatigue
+Patient: Joshua Stone | Temp: --°C | BP: 112/93 | Notes: chest pain
+Patient: Hannah Strickland | Temp: --°C | BP: 98/84 | Notes: headache and nausea
+Patient: Michael Mcpherson | Temp: --°C | BP: not taken | Notes: headache and nausea
+Patient: Cameron Gutierrez | Temp: 39.0°C | BP: not taken | Notes: "shortness of breath"
+Patient: Chad Johnson | Temp: --°C | BP: not taken | Notes: no complaints
+Patient: Charles Roberts | Temp: 37.2°C | BP: not taken | Notes: "shortness of breath"
+Patient: Diane Singleton | Temp: 36.9°C | BP: not taken | Notes: Mild cough
+Patient: Kelly Garcia | Temp: --°C | BP: 148/76 | Notes: Mild cough
+Patient: Lindsay Brown | Temp: 38.6°C | BP: 108/77 | Notes: "shortness of breath"
+Patient: Jason Davis | Temp: 39.5°C | BP: 127/71 | Notes: headache and nausea
+Patient: Katie King | Temp: 39.4°C | BP: 119/85 | Notes: 
+Patient: James Walker | Temp: 38.9°C | BP: not taken | Notes: no complaints
+Patient: Jennifer Garcia | Temp: 38.6°C | BP: 92/62 | Notes: chest pain
+Patient: Nancy Henderson | Temp: 38.6°C | BP: 116/84 | Notes: no complaints
+Patient: Shawn Garza | Temp: --°C | BP: 135/80 | Notes: "shortness of breath"
+Patient: Heather Heath | Temp: --°C | BP: 95/75 | Notes: headache and nausea
+Patient: Christina Nelson | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: Kayla Clark | Temp: 37.3°C | BP: 132/89 | Notes: complained of fatigue
+Patient: Katherine Roberts | Temp: --°C | BP: 146/62 | Notes: no complaints
+Patient: David Brown | Temp: 39.6°C | BP: not taken | Notes: 
+Patient: Alejandra Sandoval | Temp: --°C | BP: 123/80 | Notes: headache and nausea
+Patient: Derrick Jones | Temp: 38.9°C | BP: not taken | Notes: Mild cough
+Patient: Katrina Mayer | Temp: 37.9°C | BP: not taken | Notes: Mild cough
+Patient: Kelly Parker MD | Temp: --°C | BP: 120/62 | Notes: Mild cough
+Patient: Kristen Dennis | Temp: --°C | BP: not taken | Notes: 
+Patient: Jordan Webb | Temp: 36.6°C | BP: 149/67 | Notes: no complaints
+Patient: Michael Clark | Temp: --°C | BP: not taken | Notes: no complaints
+Patient: Ray Hughes | Temp: --°C | BP: not taken | Notes: chest pain
+Patient: Larry Brown | Temp: --°C | BP: not taken | Notes: headache and nausea
+Patient: Lisa Foster | Temp: 39.1°C | BP: not taken | Notes: 
+Patient: Alicia Clayton | Temp: --°C | BP: 137/93 | Notes: chest pain
+Patient: Laura Price | Temp: --°C | BP: not taken | Notes: chest pain
+Patient: Nancy Martin | Temp: 37.8°C | BP: 93/75 | Notes: no complaints
+Patient: Bryan Mills | Temp: --°C | BP: 108/76 | Notes: chest pain
+Patient: Kelsey Hopkins | Temp: 38.5°C | BP: 143/72 | Notes: headache and nausea
+Patient: Tina Chang | Temp: 37.8°C | BP: not taken | Notes: chest pain
+Patient: Arthur Huff | Temp: --°C | BP: not taken | Notes: headache and nausea
+Patient: Timothy Mcdonald | Temp: 38.8°C | BP: 132/83 | Notes: chest pain
+Patient: Lindsay Gonzalez | Temp: --°C | BP: not taken | Notes: headache and nausea
+Patient: Thomas Munoz | Temp: --°C | BP: not taken | Notes: "shortness of breath"
+Patient: Matthew Salazar | Temp: 37.2°C | BP: 132/69 | Notes: headache and nausea
+Patient: Brianna Pearson | Temp: 36.1°C | BP: not taken | Notes: headache and nausea
+Patient: Mark Hernandez | Temp: 37.5°C | BP: 142/86 | Notes: headache and nausea
+Patient: Gary Parker | Temp: 37.8°C | BP: 113/84 | Notes: complained of fatigue
