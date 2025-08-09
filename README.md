@@ -57,7 +57,7 @@ The aim is to develop a well-structured, practical archive of real-world data ch
 | 12 | Clinical-Trial Scraper | API interaction, nested-JSON normalisation, pandas, bar chart, insight writing | Complete |
 | 13 | Drug Adherence Analytics | PostgreSQL, SQLAlchemy 2.x, Alembic, Docker, pandas, matplotlib | Complete |
 | 14 | Clinical Log Parser | Regex parsing, text-to-JSON/CSV, validation, null handling, CLI design (optional) | Complete |
-| 15 | Dynamic Drug Pricing Optimization | Vectorized pandas, conditional logic, business simulation, function design | In Progress |
+| 15 | Dynamic Drug Pricing Optimization | Vectorized pandas, conditional logic, business simulation, function design | Complete |
 
 ---
 
