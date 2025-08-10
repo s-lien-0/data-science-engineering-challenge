@@ -1,52 +1,32 @@
 # 🗓️ Sales Lag Tracker
 
-A lightweight Python utility for computing the **number of days between consecutive orders per customer**.  
-Built for analysts and data engineers who want **reusable, vectorized lag calculations** without manual date diffs.
-
-## 💼 Business Use Cases
-The Sales Lag Tracker isn't just a technical tool — it solves a business problem: **understanding customer buying behavior**.
-
-### 1. Customer Retention Tracking
-- Measure how long customers wait before coming back.
-- Identify customers whose purchase frequency is dropping — potential churn risks.
-- Spot loyal customers with consistently short lag times.
-
-### 2. Targeted Marketing & Promotions
-- Trigger automated emails or app notifications when a customer's lag exceeds their normal pattern.
-- Offer time-sensitive discounts to bring customers back sooner.
-
-### 3. Inventory & Demand Forecasting
-- Anticipate when repeat orders are likely to occur.
-- Plan stock levels more accurately to reduce overstock or stockouts.
-
-### 4. Customer Segmentation
-- Group customers into "frequent buyers" vs. "occasional buyers".
-- Compare lag patterns across different regions, product categories, or demographics.
-
-### 5. Campaign Performance Measurement
-- Check if marketing efforts successfully shorten customer lag times.
-- Measure seasonal or event-based changes in buying behavior.
-
-> **Example:**  
-> If the average coffee shop customer buys every 5 days, but your loyalty campaign brings that down to 3 days, you’ve just increased revenue and engagement.
+Compute **days between consecutive orders per customer** and operationalize that signal to **trigger timely retention messages**.  
+Designed for analysts and data engineers who need a **reusable, vectorized** component that integrates cleanly into marketing and CRM workflows.
 
 ---
 
-## 📌 Overview
+## Purpose & Outcomes
 
-**Problem:**  
-Client needs to track repeat customer behavior and measure the gap between purchases.
+- **Retention monitoring:** quantify customer purchase frequency and detect overdue return cycles.
+- **Targeted outreach:** generate an **eligible audience** for re-engagement when a customer is late versus their norm.
+- **Operational planning:** use lag distributions for light demand planning and stock decisions.
 
-**Solution:**  
-A reusable function `sales_lag_tracker(df, customer_col, date_col)` that:
-- Sorts by customer and date
-- Calculates the difference (in days) between each order and the previous one
-- Handles **edge cases** (first order = `NaN` lag)
+### Notification Rules (default)
+Use per-customer behavior to avoid blanket messaging:
+- **Baseline:** `median_lag` = median of `days_since_last_order`; `recency_days` = days since last order.
+- **Eligibility:**  
+  - `order_count ≥ 2` (requires history)  
+  - `recency_days ≥ 30` (cool-off; avoid premature nudges)  
+  - `recency_days > 1.5 × median_lag` (meaningfully overdue)
+- **Safeguards:** channel preferences, opt-outs, cool-off (≥14 days since last message), quarterly cap (≤3).
 
----
+_These thresholds are configurable; start conservative, A/B test, then tune._
 
-## 🚀 Features
-- **Reusable** – works on any DataFrame with customer/date columns
-- **Vectorized** – uses `groupby` + `shift` for fast execution
-- **Defensive** – validates input columns and handles missing/invalid dates
-- **Flexible** – accepts any customer ID and date column names
+**Reference (pandas):**
+```python
+summary['should_notify'] = (
+    (summary['order_count'] >= 2) &
+    summary['median_lag'].notna() &
+    (summary['recency_days'] >= 30) &
+    (summary['recency_days'] > 1.5 * summary['median_lag'])
+)
